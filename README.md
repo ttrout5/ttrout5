@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ttrout5
-- 👀 I’m interested in cloud
-- 🌱 I’m currently learning GCP
+- 👀 I’m interested in data analytics
+- 🌱 I’m currently learning R
 
 <!---
 ttrout5/ttrout5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
