@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ttrout5
 - 👀 I’m interested in data analytics
-- 🌱 I’m currently learning R, Python, SQL, and MongoDB
+- 🌱 I’m currently learning R, Python, SQL, and Raspberry Pi
 
 <!---
 ttrout5/ttrout5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
